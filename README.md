@@ -1,2 +1,3 @@
 # myfirst
 Practice 
+theme: minima
